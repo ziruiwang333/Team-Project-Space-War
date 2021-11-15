@@ -9,6 +9,4 @@
 &nbsp;
 &nbsp;
 
-<u>***Zirui Wang***</u>  
-<u>***School of Computer Science***</u>  
-<u>***University of Birmingham***</u>
+<u>***Zirui Wang***</u>
